@@ -1,2 +1,3 @@
-# ecommerce-go
-Ecommerce usando golang
+# E-commerce Go
+
+Ecommerce usando golang e MVC
